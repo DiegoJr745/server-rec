@@ -1,0 +1,1457 @@
+{
+    "m_Name": "EquipmentWardrobeRuntimeConfig",
+    "toolSkinMaps": [
+        {
+            "equipment": {
+                "prefabName": "[DiscGolfDisc]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "DiscGolfDisc_Skin_Coop",
+                    "skinGuid": "19ef59c7-f74b-4c63-935a-1d4b1abd8518"
+                },
+                {
+                    "skinAssetName": "DiscGolfDisc_Skin_CoachSelect",
+                    "skinGuid": "2b70a76e-6f48-402e-90ff-40b06aa23eb8"
+                },
+                {
+                    "skinAssetName": "DiscGolfDisc_Skin_Laser",
+                    "skinGuid": "9d2a3618-12b3-4ca0-be59-ed15d7926d77"
+                },
+                {
+                    "skinAssetName": "DiscGolfDisc_Skin_Clear",
+                    "skinGuid": "7877964e-3a2b-4818-8513-0e26a707bd7c"
+                },
+                {
+                    "skinAssetName": "DiscGolfDisc_Skin_Wood",
+                    "skinGuid": "bd3f6aa5-c6e0-4e06-901d-1176accf1003"
+                },
+                {
+                    "skinAssetName": "DiscGolfDisc_Skin_Gold",
+                    "skinGuid": "5d3c3b16-713e-43d8-88e0-7633063091da"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballGun]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "PaintballGun_Skin_Gold",
+                    "skinGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Wood",
+                    "skinGuid": "33c84c50-7c2e-4a80-ad06-79c4f20f829e"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Orange",
+                    "skinGuid": "7ef5d1d9-24db-428c-85e0-107c1bfcc026"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Purple",
+                    "skinGuid": "4aff20ee-0b20-434b-a030-d3e1764fe4e7"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Vitton",
+                    "skinGuid": "36751c4a-86a9-40e1-bef2-84f962ab678d"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Plaid",
+                    "skinGuid": "ec5ef0f3-c072-45ec-bb8f-3781fb16e067"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Pirate",
+                    "skinGuid": "b8d5612b-2c6f-46d6-9412-decddac7d4c1"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Caution",
+                    "skinGuid": "Dg9PFcg-JUia72PnYJqkQg"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Valentines",
+                    "skinGuid": "z0Xw8_BUZUODrGHSZcLHHQ"
+                },
+                {
+                    "skinAssetName": "PaintballGun_Skin_Watermelon",
+                    "skinGuid": "p70jO7t0OEyaCWGrpUQa0Q"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballShotgun]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "PaintballShotgun_Skin_Wood",
+                    "skinGuid": "61e49c13-b414-425f-8e8b-bdcf3d12a5bf"
+                },
+                {
+                    "skinAssetName": "PaintballShotgun_Skin_Plaid",
+                    "skinGuid": "f27af5d7-c741-4457-8c98-8e8791f1a41c"
+                },
+                {
+                    "skinAssetName": "PaintballShotgun_Skin_Gold",
+                    "skinGuid": "053c24a0-82a2-43f5-b0e7-e56db05a10ba"
+                },
+                {
+                    "skinAssetName": "PaintballShotgun_Skin_Watermeon",
+                    "skinGuid": "ZMAx_-B_7kWy6-TLXx8g6Q"
+                },
+                {
+                    "skinAssetName": "PaintballShotgun_Skin_Caution",
+                    "skinGuid": "CwIBKjm3G0-xUGt_9Gf7UQ"
+                },
+                {
+                    "skinAssetName": "PaintballShotgun_Skin_Cactus",
+                    "skinGuid": "HSAwF_uBgkC0mBXyLSayWA"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Basketball]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Basketball_Skin_Purple",
+                    "skinGuid": "5dcf8a2e-6fa6-4007-ac1e-73dd53c4c247"
+                },
+                {
+                    "skinAssetName": "Basketball_Skin_Blue",
+                    "skinGuid": "e6899422-ab2f-4bd9-8e98-aef950ec27b6"
+                },
+                {
+                    "skinAssetName": "Basketball_Skin_Vitton",
+                    "skinGuid": "d6d22997-fe39-4ffa-b1b3-4955368c829a"
+                },
+                {
+                    "skinAssetName": "Basketball_Skin_Rainbow",
+                    "skinGuid": "56582acf-c7a0-4aff-b3aa-2fdea4d254a3"
+                },
+                {
+                    "skinAssetName": "Basketball_Skin_CoachSelect",
+                    "skinGuid": "56c9a6db-0f54-482c-aba9-e265f899771d"
+                },
+                {
+                    "skinAssetName": "Basketball_Skin_Cozy",
+                    "skinGuid": "WOWwmg7jg0mH2g4LJUp6fA"
+                },
+                {
+                    "skinAssetName": "Basketball_Skin_Gold",
+                    "skinGuid": "bNEcMJOzokeEVKDeXk_cDQ"
+                },
+                {
+                    "skinAssetName": "Basketball_Skin_NBA",
+                    "skinGuid": "G0b2rKv0iEyXCEUVRcxmTQ"
+                },
+                {
+                    "skinAssetName": "Basketball_Skin_NBA75",
+                    "skinGuid": "Vit6nO2nHEqvoYLf_6jHQw"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballShield]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "PaintballShield_Skin_Wood",
+                    "skinGuid": "174adb53-bc6e-4fcf-b03d-a00fc3deeb49"
+                },
+                {
+                    "skinAssetName": "PaintballShield_Skin_Purple",
+                    "skinGuid": "fd367329-b8b2-4d44-825a-da16092751e3"
+                },
+                {
+                    "skinAssetName": "PaintballShield_Skin_Pirate",
+                    "skinGuid": "a6c869d9-8f30-4ce6-a7ea-cb7ea9f9d492"
+                },
+                {
+                    "skinAssetName": "PaintballShield_Skin_80sSunset",
+                    "skinGuid": "jZ7wlwRxgUuWYuLasbnG8w"
+                },
+                {
+                    "skinAssetName": "PaintballShield_Skin_Gingerbread",
+                    "skinGuid": "QTyRLpDB3UuReHQqrKxb5A"
+                },
+                {
+                    "skinAssetName": "PaintballShield_Plaid_Skin",
+                    "skinGuid": "gfGhbEMx_kCRdO-6vPOh3g"
+                },
+                {
+                    "skinAssetName": "PaintballShield_Skin_Caution",
+                    "skinGuid": "ClJApV0LC0mxh0UiYhaXGQ"
+                },
+                {
+                    "skinAssetName": "PaintballShield_Skin_Galaxy",
+                    "skinGuid": "TleGVT9enUigvfBoWz6kvA"
+                },
+                {
+                    "skinAssetName": "PaintballShield_Skin_Halo",
+                    "skinGuid": "nb1BXq0jxE2nXihd0RBgLw"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[QuestShield]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "QuestShield_Skin_BlackGold",
+                    "skinGuid": "a9a3292c-8ccf-4564-aeb1-124c52057ef2"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Goblin",
+                    "skinGuid": "2389fce4-3ab2-4e05-918c-845eb8538bed"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Purple",
+                    "skinGuid": "93f5418e-a03d-4074-804c-daa0e374dd9f"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_wood",
+                    "skinGuid": "735b06c6-1b78-4f60-9291-a414a96cd228"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Yellow",
+                    "skinGuid": "affbab2d-3200-4512-a140-685fdc5570c6"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Rock",
+                    "skinGuid": "a363ba1b-2f70-4c5f-943a-f45cfa59122b"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Valentine",
+                    "skinGuid": "eb90210a-6d2d-4429-b1e0-3285333685fc"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Pride",
+                    "skinGuid": "439be0eb-4d1e-4c80-97f8-b4636d0ce94b"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Plaid",
+                    "skinGuid": "k0BVix46IEmgVrqUmFU3-Q"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Caution",
+                    "skinGuid": "RQCgWA3Pf0KTqznUR58-lw"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Snowflake",
+                    "skinGuid": "-rbKD_ztMUq69Nv4tLrrVA"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Neon_RR+",
+                    "skinGuid": "L9usPszLFkiA6xs32es2Lw"
+                },
+                {
+                    "skinAssetName": "QuestShield_Skin_Sunflower",
+                    "skinGuid": "_uaO1FvF5Euw3tMPGfPo2A"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Quest_SciFi_Pistol]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_Caution",
+                    "skinGuid": "33a7a3dc-5266-4075-b56f-5eaa2c400e9f"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_Vitton",
+                    "skinGuid": "db91b61b-ab32-4895-8f5a-0212c1283cbb"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_PINK",
+                    "skinGuid": "89b1fbbc-e7be-440b-8b22-8fd379c1a568"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_CandyCane",
+                    "skinGuid": "8a2a3219-fed0-4403-9061-451d162307c2"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_Frakenblaster",
+                    "skinGuid": "5nQ2kF6h6kunbk5z18Lozg"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_Recasso",
+                    "skinGuid": "0cFcVYCLTU6CKhr9uADrbw"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_Plaid",
+                    "skinGuid": "aByJShU520OzdOXBV8o0Dg"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_Gold",
+                    "skinGuid": "dRvcMuM__02iMsRwKEPtXQ"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Pistol_Skin_Galaxy",
+                    "skinGuid": "fdqopuA1qUiK_jg-G5gr3w"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Quest_SciFi_AutomaticGun]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Quest_SciFi_AutomaticGun_Skin_Caution",
+                    "skinGuid": "546b3a57-13d4-4c35-ab3a-bbb7d466f0b8"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_AutomaticGun_Skin_Arbor",
+                    "skinGuid": "bafacc36-02c6-408c-a3f5-8c2aa07a68db"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_AutomaticGun_Skin_Recasso",
+                    "skinGuid": "u60IW1Gt10eC-8SlZmQUNQ"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_AutomaticGun_Skin_Zombie",
+                    "skinGuid": "dEmh0tniCkeYBY1EdD09jA"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_AutomaticGun_Skin_Plaid",
+                    "skinGuid": "jzgz_HrPAUqOeqx3uNXVUA"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_AutomaticGun_Skin_PhysicsConstruction",
+                    "skinGuid": "TK9ybLf7xUSi6F1bVfyaRg"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Quest_SciFi_Shotgun]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Quest_SciFi_Shotgun_Skin_Caution",
+                    "skinGuid": "55a9c1e8-07e2-4457-86f2-75fd5e67b1f3"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Shotgun_Skin_PINK",
+                    "skinGuid": "83d7cca0-2c5d-41b2-a5b2-f79fd89f3037"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Shotgun_Skin_Jackolantern",
+                    "skinGuid": "bb36b722-16dc-4172-b61f-237dc1240040"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Shotgun_Skin_Valentine",
+                    "skinGuid": "cd497ae2-6382-42f2-9f92-93d5141588c3"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Shotgun_Plaid_Skin",
+                    "skinGuid": "pIRihZheSEW2Ld3VTLkB-g"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Shotgun_Skin_Shamrock",
+                    "skinGuid": "gjuFgDp-LUWPi1mPCKyqbA"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Shotgun_Skin_Galaxy",
+                    "skinGuid": "xHEZCBn5D0iUxIDp3swd9g"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_Shotgun_Skin_AlienBlaster",
+                    "skinGuid": "5wzKTogcskSYvv1HaiU57Q"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Quest_SciFi_RailGun]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Quest_SciFi_RailGun_Skin_Caution",
+                    "skinGuid": "63a867d7-ccea-4905-b6e0-e6dcfba06f9e"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_RailGun_Skin_PINK",
+                    "skinGuid": "46977ca7-ee75-4e2a-b8aa-0763879f8a96"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_RailGun_Skin_LifeGuard",
+                    "skinGuid": "X9gTAbp0Sk6nadpTBseRrg"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_RailGun_Plaid_Skin",
+                    "skinGuid": "_flhynGnykyZL7F83B7rJQ"
+                },
+                {
+                    "skinAssetName": "Quest_SciFi_RailGun_Skin_Galaxy",
+                    "skinGuid": "uvbozCned0igzscgeBlRpQ"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Crossbow]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Crossbow_Skin_Vitton",
+                    "skinGuid": "c4d70545-cdf1-4fb1-924b-613de0327faf"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_CandyCane",
+                    "skinGuid": "6bba14be-f207-4933-b09f-f0fd3e28c10c"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Recasso",
+                    "skinGuid": "1d09c8e4-78c2-49f9-acb7-8f0b3ff6a5ed"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Waves",
+                    "skinGuid": "MsFoMeUZ8Eq2qX9SrOtRPA"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Bone",
+                    "skinGuid": "T6PzFfg41UaQ7EAqts6gsw"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Dryad",
+                    "skinGuid": "jHaoDSAtikyAI82lO53o9g"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Plaid",
+                    "skinGuid": "ESQ0qOlgrkCc8MbUXGnF8A"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Rock",
+                    "skinGuid": "QEwDZYj_OEi5l86LBnuYGw"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Caution",
+                    "skinGuid": "VHFKZVhiRkylcxnxzCKUuw"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_DryadFall",
+                    "skinGuid": "Ys9UQ5b7fEyKxnaek-ihfQ"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Winter",
+                    "skinGuid": "CZAIad-ME0O0iIy77MRxBw"
+                },
+                {
+                    "skinAssetName": "Crossbow_Skin_Spring",
+                    "skinGuid": "ych0ntYcK0eiq67bCLlbew"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Longbow]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Longbow_Skin_Vitton",
+                    "skinGuid": "f5901f11-b315-4261-9474-2da207e4a229"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Ghost",
+                    "skinGuid": "52c6a138-10c5-4aab-9c3b-04b50c9a2dc5"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Rock",
+                    "skinGuid": "e738d936-0f75-423b-88bb-f626ffba573a"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Rainbow",
+                    "skinGuid": "XpxqrY6RYkafs-sd3Z0ZLw"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Dryad",
+                    "skinGuid": "JBp7CxPhrUC5hnn2EISUFA"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Plaid",
+                    "skinGuid": "T8666vuehkObksBdVbla9g"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Caution",
+                    "skinGuid": "YajcGvBcTEaf_MjCbxOciw"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Dryad_Fall",
+                    "skinGuid": "XKFuhM3zikyxTYtTzuPb_A"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Winter",
+                    "skinGuid": "uPwTBnfWwkWXuyAaAMqeQA"
+                },
+                {
+                    "skinAssetName": "Longbow_Skin_Spring",
+                    "skinGuid": "gl_tlo_t7U-H308Omy13lw"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[MakerPen]",
+                "giftboxPrefabName": "[MakerPen_Giftbox]"
+            },
+            "skins": [
+                {
+                    "skinAssetName": "MakerPen_Skin_Luxury",
+                    "skinGuid": "79090a4b-e191-4788-9210-88a7bdf6d828"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Wood",
+                    "skinGuid": "204f84a2-6ee2-45e1-9168-87f43e893e32"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Dragon",
+                    "skinGuid": "wultE5yRpkuJREeJw4prKg"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Steampunk",
+                    "skinGuid": "HyL83wPtf06DG6nsHofoeA"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Pumpkin",
+                    "skinGuid": "juFHwn9UjEiGaWyNnoxbtA"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Waves",
+                    "skinGuid": "Pw1XcUfAck2tNh0fIAu8LA"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Professor",
+                    "skinGuid": "4HJ3wRmSZUuhMRUTA67dpA"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Wonderland",
+                    "skinGuid": "i3NgZvTwkUSMsXRpqCgSZA"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Beach",
+                    "skinGuid": "BGhlN3FKGEy6w-vwc28V4A"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Mystery",
+                    "skinGuid": "BwIscV_YnE6iG4brl389Hg"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_MovieMagic",
+                    "skinGuid": "JtMeQRvo00yVwAliICTP0w"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Host1",
+                    "skinGuid": "h4xKGsHcTUy3iH7PVFjb2w"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Host2",
+                    "skinGuid": "cUBvDvybvEu5eZDPn57ExQ"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Green",
+                    "skinGuid": "VYF9NGZBgU6TOo9ayjgBEQ"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Orange",
+                    "skinGuid": "WwtFcRluQkmnCI_qH75L_Q"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Purple",
+                    "skinGuid": "iRtlLKI-X0S9oYUWLenAKQ"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Red",
+                    "skinGuid": "tvjYGeRdwEqnr9mf84WgcQ"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Yellow",
+                    "skinGuid": "Q7Tr_0DXAkOdr61UXiocow"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Pink",
+                    "skinGuid": "c1VRbmDGHUS7KiSgwj5prQ"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_White",
+                    "skinGuid": "MODdVYrjaEy-iy6quALNuA"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_HiddenWorlds",
+                    "skinGuid": "H91DVbHzR06oie8fLjdE1A"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Carnival",
+                    "skinGuid": "RPWXRfZwfUeC9PFlvcbmxw"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Gold",
+                    "skinGuid": "j83FD3aSQ0OUcrp4QIIZsA"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_ContestStranded",
+                    "skinGuid": "L12C6OfxB0y53bLXZQ4rFg"
+                },
+                {
+                    "skinAssetName": "MakerPen_ContestFolklore_Skin",
+                    "skinGuid": "xDSDJJX2w0ySwtiE6w6ghg"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Premium",
+                    "skinGuid": "_rlnwZWJrk2eiQi4f_FhWQ"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_ContestSummerCamp",
+                    "skinGuid": "ht4zv6ZFi0yrohyBm39o6A"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_DiamondUniverse",
+                    "skinGuid": "TpaRhLqVc02Oyr769imtnQ"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_Solstice",
+                    "skinGuid": "Z_mBcmlIHUWE0ox9Dn_kHA"
+                },
+                {
+                    "skinAssetName": "MakerPen_Skin_RhythmAndRooms",
+                    "skinGuid": "OcixCg4jbUyLb6DFSTjrPg"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballRifleScoped]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "PaintballRifleScoped_Skin_Plaid",
+                    "skinGuid": "6a6b0ecf-286d-4361-92ff-7027c440dc3c"
+                },
+                {
+                    "skinAssetName": "PaintBallRifleScoped_Skin_CandyCane",
+                    "skinGuid": "d906709c-e08e-4273-8ba1-e072e0d25957"
+                },
+                {
+                    "skinAssetName": "PaintballRifleScoped_Skin_Gingerbread",
+                    "skinGuid": "3rBevbIk1EusFnFaXAh3qA"
+                },
+                {
+                    "skinAssetName": "PaintballRifleScoped_Skin_Gold",
+                    "skinGuid": "OSrMlhVVSEqb-0AzVzOH9w"
+                },
+                {
+                    "skinAssetName": "PaintballRifleScoped_Skin_Comic",
+                    "skinGuid": "0dM2SfqGR0SmtO5ufTWfUQ"
+                },
+                {
+                    "skinAssetName": "PaintballRifleScoped_Skin_Wood",
+                    "skinGuid": "btB2z7ybskSYrn9Nzhfhxg"
+                },
+                {
+                    "skinAssetName": "PaintballRifleScoped_Skin_Caution",
+                    "skinGuid": "b_iiMMYayU-an7hOlCzPIA"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Crossbow_Hunter]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Crossbow_Hunter_Skin_Rock",
+                    "skinGuid": "d217ee4c-22f3-4f33-bf7c-9d4ee9c30e29"
+                },
+                {
+                    "skinAssetName": "Crossbow_Hunter_Skin_Plaid",
+                    "skinGuid": "cFMh54GoHEeHZEERSRR8kQ"
+                },
+                {
+                    "skinAssetName": "Crossbow_Hunter_Skin_Caution",
+                    "skinGuid": "RRCvths6eUmAAr9hzGFT0g"
+                },
+                {
+                    "skinAssetName": "Crossbow_Hunter_Skin_Shark",
+                    "skinGuid": "-X_Hm6dIekqoHTY2VMMLeA"
+                },
+                {
+                    "skinAssetName": "Crossbow_Hunter_Skin_Valentines",
+                    "skinGuid": "BSO9Ahi-2EiwYxE7lkHhlA"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[QuestSword]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "QuestSword_Skin_Extra",
+                    "skinGuid": "0ee04d78-5a17-4a38-ae67-b576a41fc200"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Gold",
+                    "skinGuid": "431567d2-4df2-43eb-b632-3d79aa7c013c"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Red",
+                    "skinGuid": "f03dee6a-79b8-4906-9abb-a821748d97a9"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Rock",
+                    "skinGuid": "3e46fb2d-bb3f-42ed-83ef-f5716860725c"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Comic",
+                    "skinGuid": "eecdf81c-7ba2-40ba-9d6c-f461708cce16"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Pumpkin",
+                    "skinGuid": "SbEIObEmhkKQniANHqNekg"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Recasso",
+                    "skinGuid": "Kitcy2AVB0-OdljiEAI2Pw"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Gingerbread",
+                    "skinGuid": "K9TzHZPDwU-ewzLYkr_1cg"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_CornCob",
+                    "skinGuid": "wioj1rR1lkCx7f-oiCHcOw"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Plaid",
+                    "skinGuid": "m1JMjJYpSUiXj5897orm2Q"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Caution",
+                    "skinGuid": "d97pbQMk9UWpEN0yoOE9Rg"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Lava",
+                    "skinGuid": "DRXoMS9phEG2fkasja7sEw"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_GoldenSword",
+                    "skinGuid": "uLNdhrrAC0ybxC2XkBnnVQ"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Neon_RR+",
+                    "skinGuid": "-ybFpUxTsUKWFSIS-8fOOw"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Umbrella",
+                    "skinGuid": "X8B2M3hltEKyEnX0dcJi7Q"
+                },
+                {
+                    "skinAssetName": "QuestSword_Skin_Clarinet",
+                    "skinGuid": "SRl7xh9z8kGU2OO5viCykw"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Grenade]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Grenade_Skin_Pirate",
+                    "skinGuid": "993f8b81-cb2e-44e4-88a1-b841af1f0e69"
+                },
+                {
+                    "skinAssetName": "Grenade_Chick_Skin",
+                    "skinGuid": "vlpFc1j820i5n7Y2sTW8Vw"
+                },
+                {
+                    "skinAssetName": "Grenade_Skin_GumDrop",
+                    "skinGuid": "0tfDNC0I2kiEVrJttrE0bw"
+                },
+                {
+                    "skinAssetName": "Grenade_Skin_SpringEgg",
+                    "skinGuid": "8Ex4aO2GpEqwvow6bEu_ag"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Quest_Goblin_Wand]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Ghost",
+                    "skinGuid": "e8e42ef6-9ab6-44f4-84d5-117154a4d13e"
+                },
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Witch_Star",
+                    "skinGuid": "yG6xFxkoS0iIDt7wEj5Hqw"
+                },
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Ice",
+                    "skinGuid": "3pE7zA-DjkqP1Ch7__-31w"
+                },
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Wood",
+                    "skinGuid": "m_otHTEKF0KQljsOc-JENg"
+                },
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Plaid",
+                    "skinGuid": "CyrdBvIbXUq_TsXFliWk1A"
+                },
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Caution",
+                    "skinGuid": "vfzrRHn24E67BK8Bgy60xA"
+                },
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Trident",
+                    "skinGuid": "QnLM4Qw-L0ml_mgReFweIw"
+                },
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Butterfly",
+                    "skinGuid": "M6BHcdDZnU6UEDa3wLUUhg"
+                },
+                {
+                    "skinAssetName": "Quest_Goblin_Wand_Skin_Flowers",
+                    "skinGuid": "7Kdm8AYIkky-N1biw5ljPg"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballGrenadeLauncher]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "PaintballGrenadeLauncher_Skin_Plaid",
+                    "skinGuid": "502f40c3-1c00-4c3f-bfc7-c897df8af37e"
+                },
+                {
+                    "skinAssetName": "PaintballGrenadeLauncher_Skin_Comic",
+                    "skinGuid": "f34e6270-bcfa-42f2-80d5-69c1bbd34983"
+                },
+                {
+                    "skinAssetName": "PaintballGrenadeLauncher_Skin_Gingerbread",
+                    "skinGuid": "8ZAwSDtXlkqlnBLOpfVTVg"
+                },
+                {
+                    "skinAssetName": "PaintballGrenadeLauncher_Skin_Honey",
+                    "skinGuid": "3UmIhvqmkU-aWxFDFd4QDg"
+                },
+                {
+                    "skinAssetName": "PaintballGrenadeLauncher_Skin_EasterEgg",
+                    "skinGuid": "pPpYY9j0Dku2gtbKoUOCCg"
+                },
+                {
+                    "skinAssetName": "PaintballGrenadeLauncher_Skin_Wood",
+                    "skinGuid": "9gBl778RvUeSC8837Gurog"
+                },
+                {
+                    "skinAssetName": "PaintballGrenadeLauncher_Skin_Caution",
+                    "skinGuid": "tcMMGKcmhkuM82ISCZ-3AQ"
+                },
+                {
+                    "skinAssetName": "PaintballGrenadeLauncher_Skin_Jumbotron",
+                    "skinGuid": "L-_iZgicHUajydSvUWVJhw"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[DodgeballBall]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "DodgeballBall_Skin_Comic",
+                    "skinGuid": "6261a846-e4f8-4e6e-8aa0-68f38cd788d4"
+                },
+                {
+                    "skinAssetName": "DodgeballBall_Skin_Recasso",
+                    "skinGuid": "6ff63f8f-4bcc-4b69-8d89-8b886d19e239"
+                },
+                {
+                    "skinAssetName": "DodgeballBall_Skin_Goblin",
+                    "skinGuid": "f55dda45-c17e-4237-a638-9f326d306e7d"
+                },
+                {
+                    "skinAssetName": "DodgeballBall_Skin_Gold",
+                    "skinGuid": "Jkg-OGXdIUyfEwaQIh6EGA"
+                },
+                {
+                    "skinAssetName": "DodgeballBall_Skin_Pumpkin",
+                    "skinGuid": "lIpyvEMWqUyv41gTp3YZ1A"
+                },
+                {
+                    "skinAssetName": "Dodgeball_Skin_Billiards",
+                    "skinGuid": "Ms8LD3TqBkiukhUlHxVBfw"
+                },
+                {
+                    "skinAssetName": "DodgeballBall_Skin_Cactus",
+                    "skinGuid": "dpTV4UmrJkCsz6WXD6YeKQ"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[SoccerShield]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "SoccerShield_Skin_Gingerbread",
+                    "skinGuid": "fae1abe3-6bfd-4407-b34e-e2c1b3b03032"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[RecRoyale_Backpack]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "RecRoyale_Backpack_Skin_Camo",
+                    "skinGuid": "523e3615-4633-41a3-9b2d-17d3207a684b"
+                },
+                {
+                    "skinAssetName": "RecRoyale_Backpack_Skin_Camping_Pattern",
+                    "skinGuid": "6c3b26cd-b38e-492b-a124-759cbcec1396"
+                },
+                {
+                    "skinAssetName": "RecRoyale_Backpack_Skin_Tiger",
+                    "skinGuid": "12b54ad2-3847-41db-9ed4-88e8dad63024"
+                },
+                {
+                    "skinAssetName": "RecRoyale_Backpack_Skin_Denim",
+                    "skinGuid": "5c848a04-f528-423b-8be1-4b5cd43a75c2"
+                },
+                {
+                    "skinAssetName": "RecRoyale_Backpack_Skin_Recasso",
+                    "skinGuid": "e93f5ab7-e9bf-4652-8a7c-2ae120f25f87"
+                },
+                {
+                    "skinAssetName": "RecRoyale_Backpack_Skin_Valentine",
+                    "skinGuid": "w2NNBTTCVEah2WlP0JHezQ"
+                },
+                {
+                    "skinAssetName": "RecRoyale_Backpack_Skin_FallLeaves",
+                    "skinGuid": "70uy5UJhhEy1aynKM4MAsQ"
+                },
+                {
+                    "skinAssetName": "RecRoyale_Backpack_Skin_Gold",
+                    "skinGuid": "ujZ4Hl0HO06OysqZcqHhmg"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[ShareCamera]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "ShareCamera_Skin_Wood",
+                    "skinGuid": "d218ae45-8534-4f96-b2ed-1cf281bc3578"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Disposable",
+                    "skinGuid": "e2844f84-ab44-4141-9a0a-bd5da7caa4f6"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Green",
+                    "skinGuid": "1838fa61-de10-4e09-b24a-f5a1bc942600"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Carpet",
+                    "skinGuid": "fSbzGxsjKE-cwtFFX6dJQw"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_TwoTone",
+                    "skinGuid": "ATGtNjai20miFwBUOVIMuw"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Camping",
+                    "skinGuid": "znrJSCX_SkS-kIPqMERoDg"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Comic",
+                    "skinGuid": "g5u0weNLmkCLeUXFUVn74Q"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Heart",
+                    "skinGuid": "QQALCzCF-0ClDWqmmciHAQ"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Caution",
+                    "skinGuid": "SkTa53OzM0u82YPuZAl9aw"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Plaid",
+                    "skinGuid": "sE4_-ZVa2EC4MZfGGsExzQ"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_RetroGamer",
+                    "skinGuid": "5dx423rtM0ygWqMBwJHBOQ"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_VideoPartner",
+                    "skinGuid": "T465YyOavEqTqH3s91uBHQ"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Galaxy",
+                    "skinGuid": "SFz15JbasU-gShl_GHnspw"
+                },
+                {
+                    "skinAssetName": "ShareCamera_Skin_Holographic",
+                    "skinGuid": "1B8utXzBWUSGJ4Va8Hm1xA"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Sandbox_D4]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Sandbox_D4_Skin_Pink",
+                    "skinGuid": "KiVWBp5_J0qCLuizAJGcAg"
+                },
+                {
+                    "skinAssetName": "Sandbox_D4_Skin_BoneWhite",
+                    "skinGuid": "x3Cv42hIkkaNIy7fHZiWYg"
+                },
+                {
+                    "skinAssetName": "Sandbox_D4_Skin_Turquoise",
+                    "skinGuid": "_2jxSTYSpEykZ_O91oDAzg"
+                },
+                {
+                    "skinAssetName": "Sandbox_D4_Skin_Pewter",
+                    "skinGuid": "WxWaXY61mUuNe_f6SgECnA"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Sandbox_D6]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Sandbox_D6_Skin_Pink",
+                    "skinGuid": "TxIu8CUjykGDMr5RIJcNVQ"
+                },
+                {
+                    "skinAssetName": "Sandbox_D6_Skin_BoneWhite",
+                    "skinGuid": "Fn0gcj17c06tA9s98CKwAg"
+                },
+                {
+                    "skinAssetName": "Sandbox_D6_Skin_Turquoise",
+                    "skinGuid": "HnVo08F-zk-YeikERFa1Yw"
+                },
+                {
+                    "skinAssetName": "Sandbox_D6_Skin_Pewter",
+                    "skinGuid": "5U_KiCi_90-eWucQ68VdZQ"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Sandbox_D8]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Sandbox_D8_Skin_Pink",
+                    "skinGuid": "AQXXckjNZ0uzPMTcP1C3Kg"
+                },
+                {
+                    "skinAssetName": "Sandbox_D8_Skin_BoneWhite",
+                    "skinGuid": "d_CbCG3DmUCtWGWYHioghg"
+                },
+                {
+                    "skinAssetName": "Sandbox_D8_Skin_Turquoise",
+                    "skinGuid": "f45tTZp4KUextmAsX8X9Hw"
+                },
+                {
+                    "skinAssetName": "Sandbox_D8_Skin_Pewter",
+                    "skinGuid": "77cRA0O4GUqd6nr9QLefQA"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Sandbox_D10]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Sandbox_D10_Skin_Pink",
+                    "skinGuid": "ZM543HEyl0G6n7P5rDMEWw"
+                },
+                {
+                    "skinAssetName": "Sandbox_D10_Skin_BoneWhite",
+                    "skinGuid": "GjQwBmNnK0ukv0hEEHK8tw"
+                },
+                {
+                    "skinAssetName": "Sandbox_D10_Skin_Turquoise",
+                    "skinGuid": "SnSOf-GZ2kastpF5KWxT-Q"
+                },
+                {
+                    "skinAssetName": "Sandbox_D10_Skin_Pewter",
+                    "skinGuid": "I161QAym2kqPi5wXIHCt8A"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Sandbox_D12]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Sandbox_D12_Skin_Pink",
+                    "skinGuid": "EoV2ZoLR2UWY898p8j7qGQ"
+                },
+                {
+                    "skinAssetName": "Sandbox_D12_Skin_BoneWhite",
+                    "skinGuid": "heFLfpPNd0-nhLOFpUCnpA"
+                },
+                {
+                    "skinAssetName": "Sandbox_D12_Skin_Turquoise",
+                    "skinGuid": "ub6apg3zEUiCp3k81JjQGw"
+                },
+                {
+                    "skinAssetName": "Sandbox_D12_Skin_Pewter",
+                    "skinGuid": "2gYYjbVGqkiOefY2xjOxiQ"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Sandbox_D20]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Sandbox_D20_Skin_Pink",
+                    "skinGuid": "Des7txtX0EO-7NiooR0-ow"
+                },
+                {
+                    "skinAssetName": "Sandbox_D20_Skin_BoneWhite",
+                    "skinGuid": "gXOOKrQEYE-FmS3uXWj1hA"
+                },
+                {
+                    "skinAssetName": "Sandbox_D20_Skin_Turquoise",
+                    "skinGuid": "DrG0ntsyPUSv8ra0m-Hhaw"
+                },
+                {
+                    "skinAssetName": "Sandbox_D20_Skin_Pewter",
+                    "skinGuid": "H3vrSi45AU6lshChLnr19Q"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballAssaultRifle]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "PaintballAssaultRifle_Skin_Gold",
+                    "skinGuid": "VOOdhP5qg0WWv2m0qLRVCw"
+                },
+                {
+                    "skinAssetName": "PaintballAssaultRifle_Skin_Caution",
+                    "skinGuid": "c458a6ae-a1ea-468a-89b8-4c9a85cd3cde"
+                },
+                {
+                    "skinAssetName": "PaintballAssaultRifle_Skin_Fall",
+                    "skinGuid": "m_qzPvDPF0KPhLd59wzr5A"
+                },
+                {
+                    "skinAssetName": "PaintballAssaultRifle_Skin_Pirate",
+                    "skinGuid": "996662ad-631d-4a81-8a8b-74ace4833279"
+                },
+                {
+                    "skinAssetName": "PaintballAssaultRifle_Skin_Plaid",
+                    "skinGuid": "3aaef60d-142f-4a0a-bea3-f5d99ab62dd5"
+                },
+                {
+                    "skinAssetName": "PaintballAssaultRifle_Skin_PSPLUS",
+                    "skinGuid": "49d88b73-3c8a-4f4d-8a69-128fa5474e82"
+                },
+                {
+                    "skinAssetName": "PaintballAssaultRifle_Skin_wood",
+                    "skinGuid": "357fe573-fee7-467f-93a7-5e61afb024b8"
+                },
+                {
+                    "skinAssetName": "PaintballAssaultRifle_Skin_Ghost",
+                    "skinGuid": "2vhCtZjRd0i_nYo04ij__w"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballGun] Confetti",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "PaintballGunConfetti_Skin_Gold",
+                    "skinGuid": "bfrFOdnHzEaIwHqem2dXkg"
+                },
+                {
+                    "skinAssetName": "PaintballGun Confetti_Skin_Android",
+                    "skinGuid": "PDyoY2oYKEuzGPxhvk4Lvg"
+                },
+                {
+                    "skinAssetName": "PaintballGun Confetti_Skin_Apple",
+                    "skinGuid": "NNAG0bLnKUGNxeUs4sss2w"
+                },
+                {
+                    "skinAssetName": "PaintballGun Confetti_Skin_PS5",
+                    "skinGuid": "tlvJnebYeUKMxDGzEM6SKQ"
+                },
+                {
+                    "skinAssetName": "PaintballGun Confetti_Skin_Steam",
+                    "skinGuid": "3S2KMdBa8EOI4pnZQxQ95Q"
+                },
+                {
+                    "skinAssetName": "PaintballGun Confetti_Skin_Xbox",
+                    "skinGuid": "3o8Wqyxh5UyZ9klvkIp-Pg"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Paintball_PaintThrower]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Paintball_PaintThrower_Skin_Wood",
+                    "skinGuid": "y_FesIT5jkmb61JIu7tfsw"
+                },
+                {
+                    "skinAssetName": "Paintball_PaintThrower_Skin_Plaid",
+                    "skinGuid": "GbHNkVbVgUCoirMhOGkSTA"
+                },
+                {
+                    "skinAssetName": "Paintball_PaintThrower_Skin_Caution",
+                    "skinGuid": "qhhhJeHVx0KLnGJrAGIn9g"
+                },
+                {
+                    "skinAssetName": "Paintball_PaintThrower_Skin_Fireworks",
+                    "skinGuid": "OFEdf4dRC0a3nHugXVOXnA"
+                },
+                {
+                    "skinAssetName": "Paintball_PaintThrower_Skin_DoubleDrencher",
+                    "skinGuid": "VTVy8cweC0K2ca1nTXMu0g"
+                },
+                {
+                    "skinAssetName": "Paintball_PaintThrower_Skin_CandyCane",
+                    "skinGuid": "0YfCdfAt2kiN0LQcPKSm_Q"
+                },
+                {
+                    "skinAssetName": "Paintball_PaintThrower_Skin_Jackolantern",
+                    "skinGuid": "JZQaa_BwkEuEx-ODac4Dfw"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[BowlingBall]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "BowlingBall_Skin_Gold",
+                    "skinGuid": "BvUZUamUh0uDbjDOrQrX1A"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Bucket]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Bucket_Skin_BlackLight_Swirl",
+                    "skinGuid": "VW3WV6oQOkqYshf1xc9n3A"
+                },
+                {
+                    "skinAssetName": "Bucket_Skin_Fashion",
+                    "skinGuid": "ou23DX__T0qFPjAXC5WrOQ"
+                },
+                {
+                    "skinAssetName": "Bucket_Bat_Skin",
+                    "skinGuid": "Yy0byohkZEWsiO4q0bQqBQ"
+                },
+                {
+                    "skinAssetName": "Bucket_Skin_Premium",
+                    "skinGuid": "tFvjv1gAYkaDAlHLTsHelg"
+                },
+                {
+                    "skinAssetName": "Bucket_Skin_Barrel",
+                    "skinGuid": "_6HDWw-8-k67ZbGLfJ7cQw"
+                },
+                {
+                    "skinAssetName": "Bucket_Skin_Festive",
+                    "skinGuid": "MKeaiXxCwUiDDI5c0W6ShA"
+                },
+                {
+                    "skinAssetName": "Bucket_Skin_TennisRock",
+                    "skinGuid": "U_3PE9Qc10OsVPTXyXsI_w"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Arena_Grenade]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Arena_Grenade_EasterEgg_Skin",
+                    "skinGuid": "A3XXaBH1eUuchWVVPdrY_A"
+                },
+                {
+                    "skinAssetName": "Arena_Grenade_ExplosivePirate_Skin",
+                    "skinGuid": "af3LZrxEgUuB5KAT3q2NLA"
+                },
+                {
+                    "skinAssetName": "Grenade_Skin_SpingEgg02",
+                    "skinGuid": "kx25AlxB5E-cuIwfOPlqSg"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[Vehicle_RallyBuggy]",
+                "giftboxPrefabName": "[Vehicle_RallyBuggy_Giftbox]"
+            },
+            "skins": [
+                {
+                    "skinAssetName": "Vehicle_RallyBuggy_Skin_Sport",
+                    "skinGuid": "6akn-KjyNEiqBrREYwVg4g"
+                },
+                {
+                    "skinAssetName": "Vehicle_RallyBuggy_Skin_Moon",
+                    "skinGuid": "SQwd0QdyjkOjdIAQdMyiFg"
+                }
+            ]
+        },
+        {
+            "equipment": {
+                "prefabName": "[RecCenter_Cafe_Mug]",
+                "giftboxPrefabName": ""
+            },
+            "skins": [
+                {
+                    "skinAssetName": "RecCenter_Cafe_Mug_Skin_CautionTape",
+                    "skinGuid": "5p2_8W69NkCTjym9ecWqzA"
+                }
+            ]
+        }
+    ],
+    "defaultUnlockedSelections": [
+        {
+            "equipment": {
+                "prefabName": "[PaintballGun]",
+                "giftboxPrefabName": ""
+            },
+            "skin": {
+                "skinAssetName": "PaintballGun_Skin_Orange",
+                "skinGuid": "7ef5d1d9-24db-428c-85e0-107c1bfcc026"
+            }
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballGun]",
+                "giftboxPrefabName": ""
+            },
+            "skin": {
+                "skinAssetName": "PaintballGun_Skin_Purple",
+                "skinGuid": "4aff20ee-0b20-434b-a030-d3e1764fe4e7"
+            }
+        },
+        {
+            "equipment": {
+                "prefabName": "[Basketball]",
+                "giftboxPrefabName": ""
+            },
+            "skin": {
+                "skinAssetName": "Basketball_Skin_Blue",
+                "skinGuid": "e6899422-ab2f-4bd9-8e98-aef950ec27b6"
+            }
+        },
+        {
+            "equipment": {
+                "prefabName": "[Basketball]",
+                "giftboxPrefabName": ""
+            },
+            "skin": {
+                "skinAssetName": "Basketball_Skin_Purple",
+                "skinGuid": "5dcf8a2e-6fa6-4007-ac1e-73dd53c4c247"
+            }
+        },
+        {
+            "equipment": {
+                "prefabName": "[PaintballShield]",
+                "giftboxPrefabName": ""
+            },
+            "skin": {
+                "skinAssetName": "PaintballShield_Skin_Purple",
+                "skinGuid": "fd367329-b8b2-4d44-825a-da16092751e3"
+            }
+        },
+        {
+            "equipment": {
+                "prefabName": "[QuestShield]",
+                "giftboxPrefabName": ""
+            },
+            "skin": {
+                "skinAssetName": "QuestShield_Skin_Purple",
+                "skinGuid": "93f5418e-a03d-4074-804c-daa0e374dd9f"
+            }
+        },
+        {
+            "equipment": {
+                "prefabName": "[QuestShield]",
+                "giftboxPrefabName": ""
+            },
+            "skin": {
+                "skinAssetName": "QuestShield_Skin_Yellow",
+                "skinGuid": "affbab2d-3200-4512-a140-685fdc5570c6"
+            }
+        }
+    ]
+}

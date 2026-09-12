@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+	<SystemDrawingEnableUnixSupport>true</SystemDrawingEnableUnixSupport>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.0" />
+      <PackageReference Include="LiteDB" Version="5.0.21" />
+      <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.8.0" />
+      <PackageReference Include="SixLabors.ImageSharp" Version="3.1.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\cdn\data\" />
+    <Folder Include="Data\cdn\invention\" />
+    <Folder Include="Data\cdn\custom\" />
+    <Folder Include="Data\cdn\video\" />
+  </ItemGroup>
+  
+</Project>
